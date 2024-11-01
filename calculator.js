@@ -6,7 +6,7 @@ function modulo(a, b) {
  * Add two numbers
  * @param {number} a the first number to add 
  * @param {number} b the second number to add
- * @returns {number}
+ * @returns {number} the result of the add function
  */
 const add = (a, b) => {
   if (isNaN(a)) {
