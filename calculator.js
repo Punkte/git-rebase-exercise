@@ -1,3 +1,10 @@
+// I'm a junior developer so I always add useless comment that are ovious like the following one
+/**
+ * Add two numbers
+ * @param {number} a the first number to add 
+ * @param {number} b the second number to add
+ * @returns {number}
+ */
 const add = (a, b) => {
   if (isNaN(a)) {
     throw new Error('the first parameter should be of type number')
