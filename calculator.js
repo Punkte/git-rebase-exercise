@@ -1,3 +1,6 @@
+function modulo(a, b) {
+  return a % b;
+}
 // I'm a junior developer so I always add useless comment that are ovious like the following one
 /**
  * Add two numbers
